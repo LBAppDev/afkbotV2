@@ -5,7 +5,7 @@ const BOT_CONFIG = {
   host: "sway.aternos.me",   // example: play.example.com
   port: 12277,
   username: "Sway",
-  version: "1.20.1"
+  version: "1.21.11"
 };
 // ==========================================
 
